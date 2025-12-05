@@ -9,3 +9,7 @@ a taiwanese student who study at
 - builder & maintainer of ✨STAR Rocketry [website](https://www.rocketstar.org)
 
 ### Research
+2025.12 - Aletheia project
+
+---
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/3adbef32-8a40-4a49-95be-de96717be184" />
