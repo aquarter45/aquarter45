@@ -5,7 +5,7 @@ a taiwanese student who study at
 - Keelung NTOU 2025.09 ▶︎ `CURRENT`
 
 ### Works
-- owner of [redsunmc.net](https://redsunmc.net) minecraft server
+- owner of <img width="24" height="24" src="https://cdn.redsunmc.net/logo.png" />[redsunmc.net](https://redsunmc.net) minecraft server
 - builder & maintainer of ✨STAR Rocketry [website](https://www.rocketstar.org)
 
 ### Research
