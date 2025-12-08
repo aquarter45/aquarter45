@@ -11,5 +11,6 @@ a taiwanese student who study at
 ### Research
 2025.12 - Aletheia project
 
+### Skills
 <img width="64" height="64" alt="java" src="https://github.com/user-attachments/assets/3adbef32-8a40-4a49-95be-de96717be184" /><img width="64" height="64" alt="csharp" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" /><img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/df4c4ff9-578e-4930-903f-549e36e325c2" /><img width="auto" height="64" alt="image" src="https://github.com/user-attachments/assets/55f8a8a0-11f0-44a2-a09d-72565ec995aa" />
  
